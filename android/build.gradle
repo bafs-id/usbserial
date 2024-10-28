@@ -49,6 +49,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.felHR85:UsbSerial:6.1.0'
+    // Change to version 6.1.0 when able to access repository
+    implementation 'com.github.felHR85:UsbSerial:6.0.6'
 }
 
